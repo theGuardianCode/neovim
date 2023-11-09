@@ -1,3 +1,5 @@
+set termguicolors
+
 set number
 set mouse=a
 
